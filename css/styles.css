@@ -13,7 +13,14 @@ body {
   padding-bottom: 40px;
   font-family: Montserrat;
 }
-
+.hr-two-color {
+  margin: 20px 0;
+  padding: 0;
+  height: 10px;
+  border: none;
+  border-top: 1px solid #0836043;
+  box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
 .wrapper {
   background: #ffffff;
   display: flex;
